@@ -1,0 +1,58 @@
+.nav-pills{
+  font-size:1.7em;
+  background-color:black;
+  opacity:1;
+  margin-bottom:10%;
+}
+
+body{
+  font-family:Lato;
+  background-color:black;
+  color:white;
+}
+
+h1{
+  padding:0;
+  margin-top:0px;
+  font-size:7.0em;
+}
+
+p{
+  font-size:1.7em;
+}
+
+.me{
+  height:350px;
+  margin:0 auto;
+}
+
+.block{
+  background-color:black;
+  opacity:0.7;
+  padding:25px;
+  width:70%;
+  margin-right:auto;
+  margin-left:auto;
+  border-radius:13px;
+}
+
+.btn-default{
+  background-color:black;
+  border-color:black;
+  color:white;
+  font-size:1.5em;
+  margin-top:1%;
+}
+
+.pageOne{
+  background:url("https://www.pixelstalk.net/wp-content/uploads/2016/04/Stars-wallpapers-HD-free-download.jpg");
+  background-size:cover;
+  height:800px;
+}
+
+.pageTwo{
+  background:url("http://phandroid.s3.amazonaws.com/wp-content/uploads/2015/01/night-5.jpg");
+  background-size:cover;
+  height:800px;
+  padding-top:5%;
+}

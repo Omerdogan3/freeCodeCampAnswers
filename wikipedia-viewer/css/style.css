@@ -1,0 +1,22 @@
+body{
+  background-image:url("http://wallpapercave.com/wp/kV4kCJw.jpg");
+  background-repeat: no-repeat;
+  background-attachment:fixed;
+  color:white;
+}
+
+h1{
+  font-size:5.0em;
+}
+
+.from-control{
+  color:black; 
+}
+
+.ust{
+  border-radius:25px;
+  width:80%;
+  background-color:rgba(0, 0, 0, 0.3);
+  margin-left:auto;
+  margin-right:auto;
+}

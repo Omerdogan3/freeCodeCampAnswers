@@ -1,0 +1,35 @@
+body{
+  background-color:black;
+}
+h1{
+  color:white;
+}
+p{
+  color:white;
+  font-style:italic;
+  font-size:1.3em;
+}
+img{
+  padding:25px;
+}
+.quotes{
+  width:33%;
+  margin-right:auto;
+  margin-left:auto;
+  border-color:white;
+  border-style:solid;
+  border-radius:7px;
+  margin-top:20px;
+  padding:20px;
+  height:auto;
+  color:white;
+}
+
+.quotes{
+  font-size:30px;
+}
+
+.author{
+  font-size:20px;
+  font-style:italic;
+}
